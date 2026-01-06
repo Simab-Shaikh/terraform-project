@@ -1,6 +1,6 @@
 resource "aws_vpc" "main" {
   tags = {
-    Name = "terrafor-vpc"
+    Name = "terraform-vpc"
   }
 }
 
